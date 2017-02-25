@@ -6,6 +6,7 @@ package com.test.algorithm.classic;
  * 小兔子长到第四个月后每个月又生一对兔子，
  * 假如兔子都不死，问每个月的兔子总数为多少？
  * 程序分析:兔子的规律为数列1,1,2,3,5,8,13,21....
+ * 参考：https://wenku.baidu.com/view/ee73d3cc19e8b8f67d1cb918.html
  */
 public class Main1 {
 
